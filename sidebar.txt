@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[klg:home|Door43 (klg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-klg|d43-klg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-klg/archive/master.zip|d43-klg.zip]]
+
+**Recent Changes**
+{{changes>ns = klg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/klg|Ethnologue data]]
+
